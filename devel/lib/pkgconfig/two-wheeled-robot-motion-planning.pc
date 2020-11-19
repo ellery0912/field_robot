@@ -1,0 +1,8 @@
+prefix=/home/funway/field_robot/devel
+
+Name: two-wheeled-robot-motion-planning
+Description: Description of two-wheeled-robot-motion-planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

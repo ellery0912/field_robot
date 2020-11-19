@@ -1,0 +1,8 @@
+prefix=/home/funway/field_robot/devel
+
+Name: rmml_tutorials
+Description: Description of rmml_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
