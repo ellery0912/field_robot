@@ -1,0 +1,8 @@
+prefix=/home/funway/field_robot/install
+
+Name: follw_wall
+Description: Description of follw_wall
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
