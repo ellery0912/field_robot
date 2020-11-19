@@ -1,0 +1,2 @@
+follw_wall:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/funway/field_robot/devel -DCMAKE_INSTALL_PREFIX=/home/funway/field_robot/install -G Unix Makefiles
